@@ -1,4 +1,6 @@
 name: Cypress Tests
+                uses: cypress-io/github-action@v6.7.1
+            
 
 on:
   push:
